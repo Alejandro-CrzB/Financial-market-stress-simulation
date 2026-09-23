@@ -3,7 +3,8 @@ Financial Stress Simulation Using Monte Carlo Simulations, Sensitivity Analysis,
 
 ## With this project, we aim to answer two main questions:
 
-How does the risk of a severe correction in the U.S. market change when shocks occur in credit conditions, interest rates, financial conditions, and economic activity? /n
+How does the risk of a severe correction in the U.S. market change when shocks occur in credit conditions, interest rates, financial conditions, and economic activity?  
+
 Does the behavior of copper provide additional relevant information for estimating or simulating episodes of financial stress?
 
 ## What exactly do we want to model?
