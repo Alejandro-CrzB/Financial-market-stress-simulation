@@ -10,12 +10,12 @@ Does the behavior of copper provide additional relevant information for estimati
 
 First, the current financial status, possible future scenarios, and the current market risk
 
-## What factors would you use to model the current financial situation:
+## What factors will we use to model the current financial status:
 
-Credit Spread
-Financial Conditions Index
-Yield Curve
-10-Year Treasury Yield
+Credit Spread,
+Financial Conditions Index,
+Yield Curve,
+10-Year Treasury Yield,
 Copper (COPX)
 
 And we will measure it against the S&P500
