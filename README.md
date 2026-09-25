@@ -36,3 +36,19 @@ Then, Monte Carlo simulation, sensitivity analysis, and stress scenarios will be
 - What if financial conditions tighten while Treasury yields rise?
 - Which variables have the greatest effect on estimated market risk?
 - Does adding copper change the results in a meaningful way?
+
+## Data
+This project will use publicly available data from institutional sources.
+
+| Variable | Indicator | Data Acces | Original Source | 
+| :--- | :---: | ---: | ---: |
+| Credit Spread| ICE BofA US High Yield Option-Adjusted Spread | FRED | ICE BofA |
+| Financial Conditions Index | Chicago Fed National Financial Conditions Index (NFCI) | FRED | Federal Reserve Bank of Chicago |
+| Yield Curve | 10-Year Treasury minus 2-Year Treasury | FRED | U.S. Treasury / Federal Reserve |
+| Treasury Yield | 10-Year Treasury Constant Maturity Rate | FRED | Federal Reserve Board |
+| Copper | Global Price of Copper | FRED | IMF (International Monetary Fund) |
+| Market Benchmark | S&P500 | Yahoo Finance | S&P Dow Jones Indices |
+
+
+
+
