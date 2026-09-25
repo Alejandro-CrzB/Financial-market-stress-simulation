@@ -4,7 +4,7 @@ Financial market stress simulation using Monte Carlo simulations, sensitivity an
 
 The idea behind this project is to model financial stress in the U.S. market and simulate how the risk of a severe market correction changes under different economic and financial conditions.
 
-## Main Questions I want to answer
+## Main Questions we want to answer
 
 - How does the risk of a severe correction in the U.S. market change when shocks occur in credit conditions, interest rates, financial conditions, and economic activity?
 
