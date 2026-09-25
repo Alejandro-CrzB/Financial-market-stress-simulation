@@ -1,22 +1,38 @@
-# Financial-market-stress-simulation
-Financial Stress Simulation Using Monte Carlo Simulations, Sensitivity Analysis, and Macrofinancial Indicators
+# Financial Market Stress Simulation
 
-## With this project, we aim to answer two main questions:
+Financial market stress simulation using Monte Carlo simulations, sensitivity analysis, and macro-financial indicators.
 
-How does the risk of a severe correction in the U.S. market change when shocks occur in credit conditions, interest rates, financial conditions, and economic activity?  
+The idea behind this project is to model financial stress in the U.S. market and simulate how the risk of a severe market correction changes under different economic and financial conditions.
 
-Does the behavior of copper provide additional relevant information for estimating or simulating episodes of financial stress?
+## Main Questions
 
-## What exactly do we want to model?
+- How does the risk of a severe correction in the U.S. market change when shocks occur in credit conditions, interest rates, financial conditions, and economic activity?
 
-First, the current financial status, possible future scenarios, and the current market risk
+- Does copper provide additional useful information when estimating and simulating periods of financial stress?
 
-## What factors will we use to model the current financial status:
+## What do we want to model?
 
-Credit Spread,
-Financial Conditions Index,
-Yield Curve,
-10-Year Treasury Yield,
-Copper (COPX)
+We want to model the state of the financial environment and use it to estimate the risk of a severe correction in the S&P 500.
 
-And we will measure it against the S&P500
+From there, we can simulate different scenarios and observe how that risk changes when one or several financial indicators are affected.
+
+The main indicators considered are:
+
+- Credit Spread
+- Financial Conditions Index
+- Yield Curve
+- 10-Year Treasury Yield
+- Copper
+
+The S&P 500 will be used as the reference for market corrections. Initially, a severe correction will be defined as a drawdown of around 15% over a three-month period.
+
+## Approach
+
+Historical data will first be used to understand the relationship between these indicators and periods of market stress.
+
+Then, Monte Carlo simulation, sensitivity analysis, and stress scenarios will be used to explore questions such as:
+
+- What happens if credit spreads increase sharply?
+- What if financial conditions tighten while Treasury yields rise?
+- Which variables have the greatest effect on estimated market risk?
+- Does adding copper change the results in a meaningful way?
