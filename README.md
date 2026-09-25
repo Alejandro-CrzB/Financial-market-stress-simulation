@@ -49,6 +49,5 @@ This project will use publicly available data from institutional sources.
 | Copper | Global Price of Copper | FRED | IMF (International Monetary Fund) |
 | Market Benchmark | S&P500 | Yahoo Finance | S&P Dow Jones Indices |
 
-
-
+The dates we will take into account for our historical financial data will be from January 1997 to September 2026.
 
